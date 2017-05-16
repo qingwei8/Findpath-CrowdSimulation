@@ -1,0 +1,8 @@
+<IsSaveSimulationInfo> false </IsSaveSimulationInfo>
+<TimeStep> 2 </TimeStep>
+
+<NumTotalAgent>       100  </NumTotalAgent>
+<AwarenessPercentage> 0.5  </AwarenessPercentage>
+<IgnorancePercentage> 0.5  </IgnorancePercentage>
+<NumNoGroupMembers>   100  </NumNoGroupMembers>
+<NumGroups>  0 </NumGroups>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{89476404-5ca1-4091-b558-0ffa527bc006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Simulation">
+      <UniqueIdentifier>{7f37b188-c643-470f-a1c2-ee5355e2f093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ConfigFiles">
+      <UniqueIdentifier>{71775887-53ba-4479-954f-ae5d9411654b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Group">
+      <UniqueIdentifier>{43d4adb6-9d95-491e-b750-d28883e3b89c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AgentConfig.h">
+      <Filter>ConfigFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="CrowdSimulation.h">
+      <Filter>Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="CrowdSimulationConfig.h">
+      <Filter>ConfigFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="SimulationExport.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneConfig.h">
+      <Filter>ConfigFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="SimulationCommon.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Group.h">
+      <Filter>Group</Filter>
+    </ClInclude>
+    <ClInclude Include="Subgroup.h">
+      <Filter>Group</Filter>
+    </ClInclude>
+    <ClInclude Include="DerivedAgent.h">
+      <Filter>Group</Filter>
+    </ClInclude>
+    <ClInclude Include="KNNSearch.h">
+      <Filter>Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorConfig.h">
+      <Filter>ConfigFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupCommon.h">
+      <Filter>Group</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AgentConfig.cpp">
+      <Filter>ConfigFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameWork.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="CrowdSimulation.cpp">
+      <Filter>Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="CrowdSimulationConfig.cpp">
+      <Filter>ConfigFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneConfig.cpp">
+      <Filter>ConfigFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Group.cpp">
+      <Filter>Group</Filter>
+    </ClCompile>
+    <ClCompile Include="Subgroup.cpp">
+      <Filter>Group</Filter>
+    </ClCompile>
+    <ClCompile Include="DerivedAgent.cpp">
+      <Filter>Group</Filter>
+    </ClCompile>
+    <ClCompile Include="KNNSearch.cpp">
+      <Filter>Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorConfig.cpp">
+      <Filter>ConfigFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+<IsSaveSimulationInfo> false </IsSaveSimulationInfo>
+<TimeStep> 0.5 </TimeStep>
+
+<NumTotalAgent>       1000  </NumTotalAgent>
+<AwarenessPercentage> 0.8  </AwarenessPercentage>
+<IgnorancePercentage> 0.2  </IgnorancePercentage>
+<NumNoGroupMembers>   1000  </NumNoGroupMembers>
+<NumGroups>  0 </NumGroups>
+
+<RadiusOfGoal> 100 </RadiusOfGoal>
+
+<AwarenessAgentGiveupTime> 1000 </AwarenessAgentGiveupTime>
+<IgnorantAgentGiveupTime>  800 </IgnorantAgentGiveupTime>
+<GroupGiveupTime>  1000  </GroupGiveupTime>
+<!--<IsSaveSimulationInfo> true </IsSaveSimulationInfo>
+<SaveSimulationFile> CrowdInfo.txt </SaveSimulationFile>-->

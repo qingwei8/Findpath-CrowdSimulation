@@ -1,0 +1,6 @@
+<Radius>   4.0 </Radius>
+<MaxSpeed> 4   </MaxSpeed>
+<VisibleRange>     120   </VisibleRange>
+<NeighborDist>     35  </NeighborDist>
+<TimeHorizon>      1.0 </TimeHorizon>
+<TimeHorizonObst>  1.0 </TimeHorizonObst>

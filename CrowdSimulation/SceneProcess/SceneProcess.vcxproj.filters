@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Graph">
+      <UniqueIdentifier>{5a106ac3-24c9-403b-a3c4-aed9505074fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Others">
+      <UniqueIdentifier>{fcb61c9e-4239-4933-b10e-4db34e6eff3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{ef96f4d0-09fb-4327-b870-6ffbb427b177}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GraphWithoutCrowd.h">
+      <Filter>Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphWithCrowd.h">
+      <Filter>Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseGraph.h">
+      <Filter>Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneParser.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="IAgent.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneCommon.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneExport.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTreeScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="UniformGridScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneGrid.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GraphWithoutCrowd.cpp">
+      <Filter>Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphWithCrowd.cpp">
+      <Filter>Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseGraph.cpp">
+      <Filter>Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneParser.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="IAgent.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTreeScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="UniformGridScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneGrid.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

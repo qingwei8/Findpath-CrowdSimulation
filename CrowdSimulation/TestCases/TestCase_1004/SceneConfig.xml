@@ -1,0 +1,4 @@
+<SceneImage> ../ScenePic/Scene_512_512.bmp </SceneImage>
+<SceneGenerate>    UNIFORMGRID </SceneGenerate>
+<UniformGridWidth>    32       </UniformGridWidth>
+<UniformGridHeight>   32       </UniformGridHeight>

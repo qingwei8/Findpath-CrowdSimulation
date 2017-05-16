@@ -1,0 +1,6 @@
+<SephereModel>../../CrowdRendering/data/Sphere.obj</SephereModel>
+<CylinderModel>../../CrowdRendering/data/Cuboid.obj</CylinderModel>
+<SceneVertex>../../CrowdRendering/data/SceneVertex.vp</SceneVertex>
+<SceneFrag>../../CrowdRendering/data/SceneFragment.fp</SceneFrag>
+<ObjectVertex>../../CrowdRendering/data/ObjectVertex.vp</ObjectVertex>
+<ObjectFrag>../../CrowdRendering/data/ObjectFragment.fp</ObjectFrag>

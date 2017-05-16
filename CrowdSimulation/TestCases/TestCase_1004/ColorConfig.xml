@@ -1,0 +1,8 @@
+<BackGroundColor>   255 0 0  </BackGroundColor>
+<ExitColor> 100 0 0 </ExitColor>
+<PassGridColor> 255 255 255</PassGridColor>
+<ObstacleGridColor>  255 255 0 </ObstacleGridColor>
+
+<AgentColor> 0 255 0 </AgentColor>
+<!--<AgentAwarenessColor> 0 0 0 </AgentAwarenessColor>
+<AgentIgnorantColor>  0 0 0 </AgentIgnorantColor>-->
